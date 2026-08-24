@@ -711,9 +711,3 @@ The core idea is to transform payment recovery from a reactive retry process int
 • 🔄 End-to-end recovery simulation
 
 ────────
-
-👨‍💻 Project Status
-
-Status: Prototype / Hackathon-ready MVP
-
-The current implementation uses synthetic payment data and simulated recovery actions to demonstrate the complete AI-driven revenue recovery workflow safely.

@@ -711,3 +711,14 @@ The core idea is to transform payment recovery from a reactive retry process int
 • 🔄 End-to-end recovery simulation
 
 ────────
+📬 Contact
+Dharavath Eeshwar
+
+📧 Email: eeshwardharavath@gmail.com
+💼 LinkedIn: https://linkedin.com/in/dharavatheeshwar
+🐙 GitHub: https://github.com/Eeshward
+⭐ Support
+If you found this project useful, consider giving it a ⭐ on GitHub!
+
+📄 License
+This project is licensed under the MIT License.
